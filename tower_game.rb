@@ -152,7 +152,7 @@ puts()
 winning_tower=tow.tower_1
 puts("This is what the winning tower should look like: #{winning_tower}. Note the disks are in decreasing order of size.")
 puts()
-puts("By the way, if at any point you'd like to quit the game because you are lame and give up, type command c to quit terminal.")
+puts("By the way, if at any point you'd like to quit the game because you are lame and give up, type control c to quit.")
 puts("Let's get started!")
 
 
