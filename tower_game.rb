@@ -1,6 +1,3 @@
-
-# From App Academy's Mini Curriculum
-# Section 1, Arrays
 # Towers of Hanoi Game
 
 
